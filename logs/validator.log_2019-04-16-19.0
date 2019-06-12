@@ -1,0 +1,121 @@
+2019-04-16 19:08:06,383 [restartedMain]  INFO Starting ValidatorApplication on TRCm-ACDM11 with PID 8324 (E:\Java\validator\target\classes started by ekangethe in E:\Java\validator)
+2019-04-16 19:08:06,384 [restartedMain]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 19:08:06,516 [restartedMain]  INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-16 19:08:06,516 [restartedMain]  INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-16 19:08:07,595 [restartedMain]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 19:08:07,673 [restartedMain]  INFO Finished Spring Data repository scanning in 47ms. Found 1 repository interfaces.
+2019-04-16 19:08:08,017 [restartedMain]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7d7d45a7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 19:08:09,261 [restartedMain]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 19:08:09,276 [restartedMain]  INFO Starting service [Tomcat]
+2019-04-16 19:08:09,276 [restartedMain]  INFO Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-04-16 19:08:09,292 [restartedMain]  INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.2\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\nodejs\;C:\PostgreSQL\pg11\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\ekangethe\scoop\shims;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\;C:\Users\ekangethe\AppData\Local\Microsoft\WindowsApps;C:\Users\ekangethe\AppData\Local\Programs\Git\cmd;C:\Users\ekangethe\AppData\Roaming\npm;C:\Users\ekangethe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.5\bin;;C:\Program Files\Ant\apache-ant-1.10.5\bin;C:\Program Files\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Users\ekangethe\AppData\Local\Android\Sdk\platform-tools;C:\Gradle\gradle-5.3\bin;;.]
+2019-04-16 19:08:09,577 [restartedMain]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 19:08:09,577 [restartedMain]  INFO Root WebApplicationContext: initialization completed in 3061 ms
+2019-04-16 19:08:09,863 [restartedMain]  INFO HikariPool-1 - Starting...
+2019-04-16 19:08:10,016 [restartedMain]  INFO HikariPool-1 - Start completed.
+2019-04-16 19:08:10,290 [restartedMain]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 19:08:10,390 [restartedMain]  INFO HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-16 19:08:10,390 [restartedMain]  INFO HHH000206: hibernate.properties not found
+2019-04-16 19:08:10,590 [restartedMain]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 19:08:10,749 [restartedMain]  INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-04-16 19:08:11,149 [restartedMain]  INFO HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@243a0c29'
+2019-04-16 19:08:11,149 [restartedMain]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 19:08:11,189 [restartedMain]  INFO LiveReload server is running on port 35729
+2019-04-16 19:08:11,553 [restartedMain]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 19:08:11,599 [restartedMain]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 19:08:11,713 [restartedMain]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 19:08:11,719 [restartedMain]  INFO Started ValidatorApplication in 6.374 seconds (JVM running for 9.061)
+2019-04-16 19:08:20,016 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 19:08:20,016 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 19:08:20,016 [http-nio-8080-exec-1]  INFO Completed initialization in 0 ms
+2019-04-16 19:08:20,032 [http-nio-8080-exec-1]  INFO secret key not correct
+2019-04-16 19:17:56,618 [restartedMain]  INFO Starting ValidatorApplication on TRCm-ACDM11 with PID 15544 (E:\Java\validator\target\classes started by ekangethe in E:\Java\validator)
+2019-04-16 19:17:56,620 [restartedMain]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 19:17:56,647 [restartedMain]  INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-16 19:17:56,647 [restartedMain]  INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-16 19:17:57,085 [restartedMain]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 19:17:57,119 [restartedMain]  INFO Finished Spring Data repository scanning in 30ms. Found 1 repository interfaces.
+2019-04-16 19:17:57,309 [restartedMain]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8b0dda11] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 19:17:57,522 [restartedMain]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 19:17:57,536 [restartedMain]  INFO Starting service [Tomcat]
+2019-04-16 19:17:57,536 [restartedMain]  INFO Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-04-16 19:17:57,541 [restartedMain]  INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.2\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\nodejs\;C:\PostgreSQL\pg11\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\ekangethe\scoop\shims;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\;C:\Users\ekangethe\AppData\Local\Microsoft\WindowsApps;C:\Users\ekangethe\AppData\Local\Programs\Git\cmd;C:\Users\ekangethe\AppData\Roaming\npm;C:\Users\ekangethe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.5\bin;;C:\Program Files\Ant\apache-ant-1.10.5\bin;C:\Program Files\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Users\ekangethe\AppData\Local\Android\Sdk\platform-tools;C:\Gradle\gradle-5.3\bin;;.]
+2019-04-16 19:17:57,610 [restartedMain]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 19:17:57,610 [restartedMain]  INFO Root WebApplicationContext: initialization completed in 963 ms
+2019-04-16 19:17:57,685 [restartedMain]  INFO HikariPool-1 - Starting...
+2019-04-16 19:17:57,729 [restartedMain]  INFO HikariPool-1 - Start completed.
+2019-04-16 19:17:57,759 [restartedMain]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 19:17:57,789 [restartedMain]  INFO HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-16 19:17:57,789 [restartedMain]  INFO HHH000206: hibernate.properties not found
+2019-04-16 19:17:57,852 [restartedMain]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 19:17:57,918 [restartedMain]  INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-04-16 19:17:58,218 [restartedMain]  INFO HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@407a3695'
+2019-04-16 19:17:58,220 [restartedMain]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 19:17:58,244 [restartedMain]  INFO LiveReload server is running on port 35729
+2019-04-16 19:17:58,505 [restartedMain]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 19:17:58,525 [restartedMain]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 19:17:58,645 [restartedMain]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 19:17:58,648 [restartedMain]  INFO Started ValidatorApplication in 2.219 seconds (JVM running for 2.78)
+2019-04-16 19:19:28,805 [http-nio-8080-exec-2]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 19:19:28,807 [http-nio-8080-exec-2]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 19:19:28,812 [http-nio-8080-exec-2]  INFO Completed initialization in 5 ms
+2019-04-16 19:19:28,837 [http-nio-8080-exec-2]  INFO secret key not correct
+2019-04-16 19:21:37,812 [restartedMain]  INFO Starting ValidatorApplication on TRCm-ACDM11 with PID 13792 (E:\Java\validator\target\classes started by ekangethe in E:\Java\validator)
+2019-04-16 19:21:37,814 [restartedMain]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 19:21:37,838 [restartedMain]  INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-16 19:21:37,838 [restartedMain]  INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-16 19:21:38,232 [restartedMain]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 19:21:38,266 [restartedMain]  INFO Finished Spring Data repository scanning in 31ms. Found 1 repository interfaces.
+2019-04-16 19:21:38,446 [restartedMain]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b75194d7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 19:21:38,666 [restartedMain]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 19:21:38,681 [restartedMain]  INFO Starting service [Tomcat]
+2019-04-16 19:21:38,681 [restartedMain]  INFO Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-04-16 19:21:38,686 [restartedMain]  INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.2\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\nodejs\;C:\PostgreSQL\pg11\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\ekangethe\scoop\shims;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\ekangethe\AppData\Local\Programs\Python\Python37-32\;C:\Users\ekangethe\AppData\Local\Microsoft\WindowsApps;C:\Users\ekangethe\AppData\Local\Programs\Git\cmd;C:\Users\ekangethe\AppData\Roaming\npm;C:\Users\ekangethe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.5\bin;;C:\Program Files\Ant\apache-ant-1.10.5\bin;C:\Program Files\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Users\ekangethe\AppData\Local\Android\Sdk\platform-tools;C:\Gradle\gradle-5.3\bin;;.]
+2019-04-16 19:21:38,773 [restartedMain]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 19:21:38,774 [restartedMain]  INFO Root WebApplicationContext: initialization completed in 936 ms
+2019-04-16 19:21:38,850 [restartedMain]  INFO HikariPool-1 - Starting...
+2019-04-16 19:21:38,895 [restartedMain]  INFO HikariPool-1 - Start completed.
+2019-04-16 19:21:38,931 [restartedMain]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 19:21:38,965 [restartedMain]  INFO HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-16 19:21:38,967 [restartedMain]  INFO HHH000206: hibernate.properties not found
+2019-04-16 19:21:39,032 [restartedMain]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 19:21:39,100 [restartedMain]  INFO HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-04-16 19:21:39,407 [restartedMain]  INFO HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@62adf5b5'
+2019-04-16 19:21:39,409 [restartedMain]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 19:21:39,432 [restartedMain]  INFO LiveReload server is running on port 35729
+2019-04-16 19:21:39,686 [restartedMain]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 19:21:39,705 [restartedMain]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 19:21:39,820 [restartedMain]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 19:21:39,823 [restartedMain]  INFO Started ValidatorApplication in 2.205 seconds (JVM running for 2.774)
+2019-04-16 19:21:42,287 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 19:21:42,289 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 19:21:42,294 [http-nio-8080-exec-1]  INFO Completed initialization in 5 ms
+2019-04-16 19:22:15,715 [http-nio-8080-exec-3]  WARN Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2019-04-16 19:22:23,956 [http-nio-8080-exec-4]  INFO URL: https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials
+2019-04-16 19:22:24,961 [http-nio-8080-exec-4]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"access_token":"RD7qYmMSdgcqfATKM7WL1ICwjkLe","expires_in":"3599"}
+2019-04-16 19:22:26,513 [http-nio-8080-exec-4]  INFO <200,MpesaResponseParameter(ConversationID=, OriginatorCoversationID=, ResponseDescription=success),[Date:"Tue, 16 Apr 2019 16:19:18 GMT", Content-Type:"application/json;charset=UTF-8", Content-Length:"142", Connection:"keep-alive", Cache-Control:"no-store", Server:"Apigee Router"]>
+2019-04-16 19:22:26,514 [http-nio-8080-exec-4]  INFO Response Status is {
+  "conversationID" : "",
+  "responseDescription" : "success",
+  "originatorCoversationID" : "",
+  "ConversationID" : "",
+  "OriginatorCoversationID" : "",
+  "ResponseDescription" : "success"
+}
+2019-04-16 19:22:26,514 [http-nio-8080-exec-4]  INFO URL: https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials
+2019-04-16 19:22:26,554 [http-nio-8080-exec-4]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"access_token":"Kf3i3Br813DM89J1ZgSxBpOhWm5M","expires_in":"3599"}
+2019-04-16 19:22:27,045 [http-nio-8080-exec-4]  INFO <200,MpesaResponseParameter(ConversationID=AG_20190416_000076f347220c67a55a, OriginatorCoversationID=28205-2204214-4, ResponseDescription=Accept the service request successfully.),[Date:"Tue, 16 Apr 2019 16:19:18 GMT", Content-Type:"application/json;charset=UTF-8", Content-Length:"222", Connection:"keep-alive", Cache-Control:"no-store", Server:"Apigee Router"]>
+2019-04-16 19:22:27,048 [http-nio-8080-exec-4]  INFO Response Status is {
+  "conversationID" : "AG_20190416_000076f347220c67a55a",
+  "responseDescription" : "Accept the service request successfully.",
+  "originatorCoversationID" : "28205-2204214-4",
+  "ConversationID" : "AG_20190416_000076f347220c67a55a",
+  "OriginatorCoversationID" : "28205-2204214-4",
+  "ResponseDescription" : "Accept the service request successfully."
+}
